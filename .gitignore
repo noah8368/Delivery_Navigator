@@ -1,0 +1,12 @@
+# Xcode Project Files
+*.xcodeproj
+Project4
+
+# Executable File for program
+delivery_navigator
+
+# All object files
+*.o
+
+# Files added by Mac OS
+.DS_Store
